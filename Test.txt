@@ -1,1 +1,1 @@
-{YELLOW}kali is my name. ahjaj
+\033[1;33mkali is my name
